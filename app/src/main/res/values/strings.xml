@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contatos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro_de_contato">CadastroDeContatoActivity</string>
+</resources>
